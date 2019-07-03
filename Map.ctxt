@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Map
+comment1.params=
+comment1.target=Map()
+comment2.params=key
+comment2.target=int\ getBucketInd(java.lang.Object)
+comment3.params=key\ value
+comment3.target=void\ insert(java.lang.Object,\ java.lang.Object)
+comment4.params=
+comment4.target=void\ rehash()
+comment5.params=
+comment5.target=void\ printmap()
+numComments=6
